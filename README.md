@@ -1,4 +1,4 @@
 mediagoblin-init-scripts
 ========================
 
-THIS REPO HAS MOVED
+This repository has moved to https://github.com/joar/mediagoblin-init-scripts
